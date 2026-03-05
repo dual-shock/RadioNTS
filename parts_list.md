@@ -1,0 +1,5 @@
+ESP32-S3 WROOM 1 N16R2
+
+PCM5102A DAC
+
+18650 TP4056 Charger, battery, holder
